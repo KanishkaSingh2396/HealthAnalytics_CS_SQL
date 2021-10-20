@@ -23,9 +23,10 @@ ANS: 325
 7. Have at least 2 types of measurements?
 ANS: 204
 
-8.. Have all 3 measures - blood glucose, weight and blood pressure?
+8. Have all 3 measures - blood glucose, weight and blood pressure?
 ANS: 50
 
 For users that have blood pressure measurements:
+
 9. What is the median systolic/diastolic blood pressure values?
 ANS 126, 79
